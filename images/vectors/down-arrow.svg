@@ -16,13 +16,13 @@
    viewBox="0 0 322.20001 281.70001"
    enable-background="new 0 0 1400 980"
    xml:space="preserve"
-   sodipodi:docname="down arror.svg"
+   sodipodi:docname="down-arrow.svg"
    width="322.20001"
    height="281.70001"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
    id="metadata143"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs141" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -41,7 +41,7 @@
    inkscape:cy="159.15763"
    inkscape:window-x="90"
    inkscape:window-y="115"
-   inkscape:window-maximized="0"
+   inkscape:window-maximized="1"
    inkscape:current-layer="Capa_1" />
 
 
@@ -51,7 +51,7 @@
    d="m 322.2,47.6 h -56 L 294.2,0 H 0 L 176.8,281.7 Z M 269.6,14.2 250,47.6 H 87 L 176.9,200.1 258,61.8 h 39.3 L 176.9,255.3 25.2,14.2 Z m -158,47.6 H 242 l -65.2,110.7 z"
    id="path10"
    inkscape:connector-curvature="0"
-   style="fill:#6a8a82;fill-opacity:1" />
+   style="fill:#ffffff;fill-opacity:1" />
 
 
 
