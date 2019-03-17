@@ -46,6 +46,17 @@ h2 {
   height: 65px;
 }
 
+.row {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.col {
+  flex-direction: column;
+  text-align: center;
+}
+
 #downarrow {
   height: 60px;
   margin-bottom: 15px;
@@ -77,15 +88,8 @@ h2 {
   height: 100%;
 }
 
-.row {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-}
-
-.col {
-  flex-direction: column;
-  text-align: center;
+.info2 {
+  width: 60%;
   padding: 10px;
   font-size: 1.2em;
 }
@@ -95,8 +99,12 @@ h2 {
 }
 
 @media (max-width: 768px) {
-  .row {
+  .info {
     flex-direction: column;
+  }
+
+  .info2 {
+    width: 100%;
   }
 
   .typed-cursor {
