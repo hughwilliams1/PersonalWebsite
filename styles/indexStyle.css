@@ -30,20 +30,25 @@ h2 {
   flex-direction: column;
 }
 
-.info {
+.type {
   color: white;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
-  text-align: center;
-  vertical-align: middle;
 }
 
-.cover img {
-  height: 50px;
-  margin-bottom: 15px;
+.typed-cursor {
+  margin-left: -10px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  font-size: 2.8em;
+  color: white;
 }
 
-.info a img {
+#mark {
   height: 65px;
+}
+
+#downarrow {
+  height: 60px;
+  margin-bottom: 15px;
 }
 
 #work {
@@ -57,6 +62,10 @@ h2 {
 #work h1 {
   color: #282726;
   padding-top: 20px;
+}
+
+.projcontainer {
+  margin-bottom: 15px;
 }
 
 .imagecontainer {
@@ -88,5 +97,9 @@ h2 {
 @media (max-width: 768px) {
   .row {
     flex-direction: column;
+  }
+
+  .typed-cursor {
+    display: none;
   }
 }
